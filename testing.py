@@ -17,3 +17,4 @@ def substrinsgk(s, k):
 s = "pqpqs"
 k = 2
 print(substringk(s, k))
+d
