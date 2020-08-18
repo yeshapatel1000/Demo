@@ -1,4 +1,4 @@
-def substringk(s, k):
+def substrinsgk(s, k):
     if not s or k == 0:
         return []
 
